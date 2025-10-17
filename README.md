@@ -175,10 +175,7 @@ while True:
 
 <hr>
 <h2> Input and Output</h2>
-
 <img width="575" height="778" alt="image" src="https://github.com/user-attachments/assets/6c1bad9c-1958-4418-a568-dbf6c845c000" />
-
-
 <hr>
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
